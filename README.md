@@ -1,4 +1,4 @@
-![App Banner](sql-project-banner.png)
+![App Banner](sql project banner.png)
 
 # 💬 Chat with SQL Database using LLM
 
