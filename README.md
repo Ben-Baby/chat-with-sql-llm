@@ -1,4 +1,5 @@
-![App Banner](banner.png)
+![App Banner](sql-project-banner.png)
+
 # 💬 Chat with SQL Database using LLM
 
 A Streamlit app that lets you chat with your **MySQL database** using **Llama 3 via Groq** and **LangChain**.
