@@ -23,7 +23,7 @@ Built by **Ben Baby** 🚀
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/chat-with-sql-llm.git
+git clone https://github.com/Ben-Baby/chat-with-sql-llm.git
 cd chat-with-sql-llm
 
 2.Install dependencies
